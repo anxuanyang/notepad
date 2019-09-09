@@ -1,36 +1,31 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-	<meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" >
-    <meta name="renderer" content="webkit">
-    <title>RTMP播放协议</title>
-    <style>
-        body{margin:0;}
-        #myPlayer{max-width: 1200px;width: 100%;}
-    </style>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="IE=edge" >
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no"/>
+    <title>Aliplayer Online Settings</title>
+    <link rel="stylesheet" href="https://g.alicdn.com/de/prismplayer/2.8.2/skins/default/aliplayer-min.css" />
+    <script type="text/javascript" charset="utf-8" src="https://g.alicdn.com/de/prismplayer/2.8.2/aliplayer-min.js"></script>
 </head>
 <body>
-
-<script src="https://open.ys7.com/sdk/js/2.0/ezuikit.js"></script>
-
-<video id="myPlayer" controls playsInline webkit-playsinline autoplay>
-    <source src="rtmp://rtmp01open.ys7.com/openlive/9cc25ef9ec994e17ba1fea834ee7c070.hd" type="rtmp/flv" />
-</video>
-	
+<div class="prism-player" id="player-con"></div>
 <script>
-  var player = new EZuikit.EZUIPlayer('myPlayer');
-
-   // 日志
-   player.on('log', log);
-
-   function log(str){
-       var div = document.createElement('DIV');
-       div.innerHTML = (new Date()).Format('yyyy-MM-dd hh:mm:ss.S') + JSON.stringify(str);
-       document.body.appendChild(div);
-   }
-
+    var player = new Aliplayer({
+            "id": "player-con",
+            "source": "https://hls01open.ys7.com/openlive/9cc25ef9ec994e17ba1fea834ee7c070.hd.m3u8",
+            "width": "100%",
+            "height": "500px",
+            "autoplay": true,
+            "isLive": true,
+            "rePlay": false,
+            "playsinline": true,
+            "preload": true,
+            "controlBarVisibility": "hover",
+            "useH5Prism": true
+        }, function (player) {
+            console.log("The player is created");
+        }
+    );
 </script>
-	
 </body>
-</html>
