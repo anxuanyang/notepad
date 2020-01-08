@@ -1,0 +1,786 @@
+[
+    {
+        "sort_no": "0",
+        "children": [
+            {
+                "sort_no": "4",
+                "children": [
+                    {
+                        "sort_no": "0",
+                        "children": [
+                            {
+                                "sort_no": "0",
+                                "children": [],
+                                "pid": "578",
+                                "id": "582",
+                                "chain_name": "微滤膜MF"
+                            },
+                            {
+                                "sort_no": "0",
+                                "children": [],
+                                "pid": "578",
+                                "id": "583",
+                                "chain_name": "超滤膜UF"
+                            },
+                            {
+                                "sort_no": "0",
+                                "children": [],
+                                "pid": "578",
+                                "id": "584",
+                                "chain_name": "纳滤膜NF"
+                            },
+                            {
+                                "sort_no": "0",
+                                "children": [],
+                                "pid": "578",
+                                "id": "585",
+                                "chain_name": "渗透膜RO FO"
+                            },
+                            {
+                                "sort_no": "0",
+                                "children": [],
+                                "pid": "578",
+                                "id": "586",
+                                "chain_name": "气体分离膜GS"
+                            }
+                        ],
+                        "pid": "573",
+                        "id": "578",
+                        "chain_name": "高性能分离膜材料"
+                    },
+                    {
+                        "sort_no": "0",
+                        "children": [
+                            {
+                                "sort_no": "0",
+                                "children": [],
+                                "pid": "579",
+                                "id": "587",
+                                "chain_name": "聚乳酸PLA"
+                            },
+                            {
+                                "sort_no": "0",
+                                "children": [],
+                                "pid": "579",
+                                "id": "588",
+                                "chain_name": "聚乳酸聚合物"
+                            }
+                        ],
+                        "pid": "573",
+                        "id": "579",
+                        "chain_name": "环境友好生物基材料"
+                    },
+                    {
+                        "sort_no": "0",
+                        "children": [
+                            {
+                                "sort_no": "0",
+                                "children": [],
+                                "pid": "580",
+                                "id": "589",
+                                "chain_name": "聚酰亚胺PI"
+                            },
+                            {
+                                "sort_no": "0",
+                                "children": [],
+                                "pid": "580",
+                                "id": "590",
+                                "chain_name": "聚醚醚酮PEEK"
+                            }
+                        ],
+                        "pid": "573",
+                        "id": "580",
+                        "chain_name": "特种工程塑料"
+                    },
+                    {
+                        "sort_no": "0",
+                        "children": [
+                            {
+                                "sort_no": "0",
+                                "children": [],
+                                "pid": "581",
+                                "id": "591",
+                                "chain_name": "背光模组"
+                            },
+                            {
+                                "sort_no": "0",
+                                "children": [],
+                                "pid": "581",
+                                "id": "592",
+                                "chain_name": "偏光片"
+                            }
+                        ],
+                        "pid": "573",
+                        "id": "581",
+                        "chain_name": "膜材料"
+                    }
+                ],
+                "pid": "572",
+                "id": "573",
+                "chain_name": "高性能高分子材料"
+            },
+            {
+                "sort_no": "3",
+                "children": [
+                    {
+                        "sort_no": "0",
+                        "children": [
+                            {
+                                "sort_no": "0",
+                                "children": [],
+                                "pid": "593",
+                                "id": "596",
+                                "chain_name": "高温合金"
+                            },
+                            {
+                                "sort_no": "0",
+                                "children": [],
+                                "pid": "593",
+                                "id": "597",
+                                "chain_name": "铝合金"
+                            }
+                        ],
+                        "pid": "574",
+                        "id": "593",
+                        "chain_name": "增材制造金属材料"
+                    },
+                    {
+                        "sort_no": "0",
+                        "children": [
+                            {
+                                "sort_no": "0",
+                                "children": [],
+                                "pid": "594",
+                                "id": "598",
+                                "chain_name": "改性高分子"
+                            },
+                            {
+                                "sort_no": "0",
+                                "children": [],
+                                "pid": "594",
+                                "id": "599",
+                                "chain_name": "陶瓷材料"
+                            },
+                            {
+                                "sort_no": "0",
+                                "children": [],
+                                "pid": "594",
+                                "id": "729",
+                                "chain_name": "玻璃纤维"
+                            }
+                        ],
+                        "pid": "574",
+                        "id": "594",
+                        "chain_name": "增材制造非金属材料"
+                    },
+                    {
+                        "sort_no": "0",
+                        "children": [
+                            {
+                                "sort_no": "0",
+                                "children": [],
+                                "pid": "595",
+                                "id": "600",
+                                "chain_name": "碳纤维"
+                            },
+                            {
+                                "sort_no": "0",
+                                "children": [],
+                                "pid": "595",
+                                "id": "601",
+                                "chain_name": "芳纶纤维"
+                            },
+                            {
+                                "sort_no": "0",
+                                "children": [],
+                                "pid": "595",
+                                "id": "602",
+                                "chain_name": "超高分子量聚乙烯纤维"
+                            }
+                        ],
+                        "pid": "574",
+                        "id": "595",
+                        "chain_name": "高性能纤维及复合材料"
+                    }
+                ],
+                "pid": "572",
+                "id": "574",
+                "chain_name": "先进结构与复合材料"
+            },
+            {
+                "sort_no": "2",
+                "children": [
+                    {
+                        "sort_no": "0",
+                        "children": [
+                            {
+                                "sort_no": "0",
+                                "children": [],
+                                "pid": "603",
+                                "id": "604",
+                                "chain_name": "生物再生材料"
+                            },
+                            {
+                                "sort_no": "0",
+                                "children": [],
+                                "pid": "603",
+                                "id": "605",
+                                "chain_name": "人工器官"
+                            },
+                            {
+                                "sort_no": "0",
+                                "children": [],
+                                "pid": "603",
+                                "id": "606",
+                                "chain_name": "组织支架材料"
+                            },
+                            {
+                                "sort_no": "0",
+                                "children": [],
+                                "pid": "603",
+                                "id": "607",
+                                "chain_name": "可降解材料"
+                            },
+                            {
+                                "sort_no": "0",
+                                "children": [],
+                                "pid": "603",
+                                "id": "608",
+                                "chain_name": "复合生物材料"
+                            }
+                        ],
+                        "pid": "575",
+                        "id": "603",
+                        "chain_name": "生物医用材料"
+                    }
+                ],
+                "pid": "572",
+                "id": "575",
+                "chain_name": "新型功能性材料"
+            },
+            {
+                "sort_no": "1",
+                "children": [
+                    {
+                        "sort_no": "0",
+                        "children": [],
+                        "pid": "576",
+                        "id": "609",
+                        "chain_name": "高端装备用特种合金"
+                    }
+                ],
+                "pid": "572",
+                "id": "576",
+                "chain_name": "先进金属材料"
+            },
+            {
+                "sort_no": "0",
+                "children": [
+                    {
+                        "sort_no": "0",
+                        "children": [
+                            {
+                                "sort_no": "0",
+                                "children": [],
+                                "pid": "610",
+                                "id": "613",
+                                "chain_name": "正极材料"
+                            },
+                            {
+                                "sort_no": "0",
+                                "children": [],
+                                "pid": "610",
+                                "id": "614",
+                                "chain_name": "负极材料"
+                            },
+                            {
+                                "sort_no": "0",
+                                "children": [],
+                                "pid": "610",
+                                "id": "615",
+                                "chain_name": "锂电池隔膜"
+                            },
+                            {
+                                "sort_no": "0",
+                                "children": [],
+                                "pid": "610",
+                                "id": "616",
+                                "chain_name": "电解液材料"
+                            }
+                        ],
+                        "pid": "577",
+                        "id": "610",
+                        "chain_name": "锂离子电池材料"
+                    },
+                    {
+                        "sort_no": "0",
+                        "children": [
+                            {
+                                "sort_no": "0",
+                                "children": [],
+                                "pid": "611",
+                                "id": "617",
+                                "chain_name": "氮化镓半导体材料"
+                            },
+                            {
+                                "sort_no": "0",
+                                "children": [],
+                                "pid": "611",
+                                "id": "618",
+                                "chain_name": "碳化硅半导体材料"
+                            }
+                        ],
+                        "pid": "577",
+                        "id": "611",
+                        "chain_name": "第三代半导体材料"
+                    },
+                    {
+                        "sort_no": "0",
+                        "children": [
+                            {
+                                "sort_no": "0",
+                                "children": [],
+                                "pid": "612",
+                                "id": "619",
+                                "chain_name": "AMOLED"
+                            },
+                            {
+                                "sort_no": "0",
+                                "children": [],
+                                "pid": "612",
+                                "id": "620",
+                                "chain_name": "有机发光材料"
+                            }
+                        ],
+                        "pid": "577",
+                        "id": "612",
+                        "chain_name": "柔性显示材料"
+                    }
+                ],
+                "pid": "572",
+                "id": "577",
+                "chain_name": "电子材料"
+            }
+        ],
+        "pid": "0",
+        "id": "572",
+        "chain_name": "新材料"
+    },
+    {
+        "sort_no": "92",
+        "children": [
+            {
+                "sort_no": "3",
+                "children": [
+                    {
+                        "sort_no": "6",
+                        "children": [],
+                        "pid": "623",
+                        "id": "644",
+                        "chain_name": "生铁"
+                    },
+                    {
+                        "sort_no": "5",
+                        "children": [],
+                        "pid": "623",
+                        "id": "648",
+                        "chain_name": "钢材"
+                    },
+                    {
+                        "sort_no": "4",
+                        "children": [],
+                        "pid": "623",
+                        "id": "649",
+                        "chain_name": "有色金属"
+                    },
+                    {
+                        "sort_no": "3",
+                        "children": [],
+                        "pid": "623",
+                        "id": "650",
+                        "chain_name": "合金材料"
+                    },
+                    {
+                        "sort_no": "2",
+                        "children": [],
+                        "pid": "623",
+                        "id": "651",
+                        "chain_name": "复合材料"
+                    }
+                ],
+                "pid": "622",
+                "id": "623",
+                "chain_name": "上游材料"
+            },
+            {
+                "sort_no": "2",
+                "children": [
+                    {
+                        "sort_no": "15",
+                        "children": [],
+                        "pid": "664",
+                        "id": "666",
+                        "chain_name": "铸锻件"
+                    },
+                    {
+                        "sort_no": "14",
+                        "children": [],
+                        "pid": "664",
+                        "id": "668",
+                        "chain_name": "高压油缸"
+                    },
+                    {
+                        "sort_no": "13",
+                        "children": [],
+                        "pid": "664",
+                        "id": "670",
+                        "chain_name": "发动机"
+                    },
+                    {
+                        "sort_no": "12",
+                        "children": [],
+                        "pid": "664",
+                        "id": "672",
+                        "chain_name": "液压泵"
+                    },
+                    {
+                        "sort_no": "11",
+                        "children": [],
+                        "pid": "664",
+                        "id": "673",
+                        "chain_name": "液压马达"
+                    },
+                    {
+                        "sort_no": "10",
+                        "children": [],
+                        "pid": "664",
+                        "id": "676",
+                        "chain_name": "液压阀"
+                    },
+                    {
+                        "sort_no": "9",
+                        "children": [],
+                        "pid": "664",
+                        "id": "677",
+                        "chain_name": "动力换挡变速箱"
+                    },
+                    {
+                        "sort_no": "8",
+                        "children": [],
+                        "pid": "664",
+                        "id": "679",
+                        "chain_name": "变矩器"
+                    },
+                    {
+                        "sort_no": "7",
+                        "children": [],
+                        "pid": "664",
+                        "id": "680",
+                        "chain_name": "回转轴承"
+                    },
+                    {
+                        "sort_no": "6",
+                        "children": [],
+                        "pid": "664",
+                        "id": "681",
+                        "chain_name": "驱动器"
+                    },
+                    {
+                        "sort_no": "5",
+                        "children": [],
+                        "pid": "664",
+                        "id": "682",
+                        "chain_name": "电器元件"
+                    },
+                    {
+                        "sort_no": "4",
+                        "children": [],
+                        "pid": "664",
+                        "id": "683",
+                        "chain_name": "履带板"
+                    },
+                    {
+                        "sort_no": "3",
+                        "children": [],
+                        "pid": "664",
+                        "id": "684",
+                        "chain_name": "液压传动系统"
+                    },
+                    {
+                        "sort_no": "2",
+                        "children": [],
+                        "pid": "664",
+                        "id": "685",
+                        "chain_name": "电液比例控制系统"
+                    },
+                    {
+                        "sort_no": "1",
+                        "children": [],
+                        "pid": "664",
+                        "id": "686",
+                        "chain_name": "智能控制系统"
+                    }
+                ],
+                "pid": "622",
+                "id": "664",
+                "chain_name": "中游生产"
+            },
+            {
+                "sort_no": "1",
+                "children": [
+                    {
+                        "sort_no": "2",
+                        "children": [
+                            {
+                                "sort_no": "9",
+                                "children": [],
+                                "pid": "688",
+                                "id": "689",
+                                "chain_name": "工程机械"
+                            },
+                            {
+                                "sort_no": "8",
+                                "children": [],
+                                "pid": "688",
+                                "id": "690",
+                                "chain_name": "电力机械"
+                            },
+                            {
+                                "sort_no": "7",
+                                "children": [],
+                                "pid": "688",
+                                "id": "698",
+                                "chain_name": "农业机械"
+                            },
+                            {
+                                "sort_no": "6",
+                                "children": [],
+                                "pid": "688",
+                                "id": "699",
+                                "chain_name": "冶金机械"
+                            },
+                            {
+                                "sort_no": "5",
+                                "children": [],
+                                "pid": "688",
+                                "id": "700",
+                                "chain_name": "石化机械"
+                            },
+                            {
+                                "sort_no": "4",
+                                "children": [],
+                                "pid": "688",
+                                "id": "701",
+                                "chain_name": "船舶配套机械"
+                            },
+                            {
+                                "sort_no": "3",
+                                "children": [
+                                    {
+                                        "sort_no": "5",
+                                        "children": [],
+                                        "pid": "702",
+                                        "id": "705",
+                                        "chain_name": "除雾净化设备"
+                                    },
+                                    {
+                                        "sort_no": "4",
+                                        "children": [],
+                                        "pid": "702",
+                                        "id": "706",
+                                        "chain_name": "污水处理设备"
+                                    },
+                                    {
+                                        "sort_no": "3",
+                                        "children": [],
+                                        "pid": "702",
+                                        "id": "707",
+                                        "chain_name": "脱硝设备"
+                                    },
+                                    {
+                                        "sort_no": "2",
+                                        "children": [],
+                                        "pid": "702",
+                                        "id": "708",
+                                        "chain_name": "过滤除尘设备"
+                                    },
+                                    {
+                                        "sort_no": "1",
+                                        "children": [],
+                                        "pid": "702",
+                                        "id": "709",
+                                        "chain_name": "湿式除尘设备"
+                                    }
+                                ],
+                                "pid": "688",
+                                "id": "702",
+                                "chain_name": "环保机械"
+                            },
+                            {
+                                "sort_no": "2",
+                                "children": [
+                                    {
+                                        "sort_no": "4",
+                                        "children": [],
+                                        "pid": "703",
+                                        "id": "710",
+                                        "chain_name": "纺纱机械"
+                                    },
+                                    {
+                                        "sort_no": "3",
+                                        "children": [],
+                                        "pid": "703",
+                                        "id": "711",
+                                        "chain_name": "编织机械"
+                                    },
+                                    {
+                                        "sort_no": "2",
+                                        "children": [],
+                                        "pid": "703",
+                                        "id": "712",
+                                        "chain_name": "染整机械"
+                                    },
+                                    {
+                                        "sort_no": "1",
+                                        "children": [],
+                                        "pid": "703",
+                                        "id": "713",
+                                        "chain_name": "服装机械"
+                                    }
+                                ],
+                                "pid": "688",
+                                "id": "703",
+                                "chain_name": "纺织机械"
+                            },
+                            {
+                                "sort_no": "1",
+                                "children": [
+                                    {
+                                        "sort_no": "0",
+                                        "children": [],
+                                        "pid": "704",
+                                        "id": "714",
+                                        "chain_name": "矿山采掘设备"
+                                    },
+                                    {
+                                        "sort_no": "0",
+                                        "children": [],
+                                        "pid": "704",
+                                        "id": "715",
+                                        "chain_name": "矿山提升设备"
+                                    },
+                                    {
+                                        "sort_no": "0",
+                                        "children": [],
+                                        "pid": "704",
+                                        "id": "716",
+                                        "chain_name": "矿山运输设备"
+                                    }
+                                ],
+                                "pid": "688",
+                                "id": "704",
+                                "chain_name": "矿山机械"
+                            }
+                        ],
+                        "pid": "687",
+                        "id": "688",
+                        "chain_name": "传统机械设备"
+                    },
+                    {
+                        "sort_no": "1",
+                        "children": [
+                            {
+                                "sort_no": "4",
+                                "children": [],
+                                "pid": "717",
+                                "id": "718",
+                                "chain_name": "高端数控机床"
+                            },
+                            {
+                                "sort_no": "3",
+                                "children": [],
+                                "pid": "717",
+                                "id": "719",
+                                "chain_name": "智能仪表"
+                            },
+                            {
+                                "sort_no": "2",
+                                "children": [
+                                    {
+                                        "sort_no": "0",
+                                        "children": [],
+                                        "pid": "720",
+                                        "id": "722",
+                                        "chain_name": "物流仓储与自动化成套设备"
+                                    },
+                                    {
+                                        "sort_no": "0",
+                                        "children": [],
+                                        "pid": "720",
+                                        "id": "723",
+                                        "chain_name": "自动化装备与监测生产线"
+                                    }
+                                ],
+                                "pid": "717",
+                                "id": "720",
+                                "chain_name": "智能化成套设备"
+                            },
+                            {
+                                "sort_no": "1",
+                                "children": [
+                                    {
+                                        "sort_no": "0",
+                                        "children": [],
+                                        "pid": "721",
+                                        "id": "724",
+                                        "chain_name": "减速器"
+                                    },
+                                    {
+                                        "sort_no": "0",
+                                        "children": [],
+                                        "pid": "721",
+                                        "id": "725",
+                                        "chain_name": "伺服电机"
+                                    },
+                                    {
+                                        "sort_no": "0",
+                                        "children": [],
+                                        "pid": "721",
+                                        "id": "726",
+                                        "chain_name": "控制器"
+                                    },
+                                    {
+                                        "sort_no": "0",
+                                        "children": [],
+                                        "pid": "721",
+                                        "id": "727",
+                                        "chain_name": "机器人本体制造"
+                                    },
+                                    {
+                                        "sort_no": "0",
+                                        "children": [],
+                                        "pid": "721",
+                                        "id": "728",
+                                        "chain_name": "机器人系统集成"
+                                    }
+                                ],
+                                "pid": "717",
+                                "id": "721",
+                                "chain_name": "工业机器人"
+                            }
+                        ],
+                        "pid": "687",
+                        "id": "717",
+                        "chain_name": "智能制造装备"
+                    }
+                ],
+                "pid": "622",
+                "id": "687",
+                "chain_name": "下游设备"
+            }
+        ],
+        "pid": "0",
+        "id": "622",
+        "chain_name": "高端装备制造"
+    }
+]
