@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+	<script src="https://unpkg.com/callapp-lib@3.1.2/dist/index.umd.js"></script>
+</head>
+<body>
+	<h4 onclick="openweibo()">打开微博</h4>
+	<script>
+		function openweibo() {
+			// sinaweibo://wbdiversion
+			const options = {
+			  scheme: {
+			  	protocol: 'sinaweibo'
+			  }
+			};
+			const callLib = new CallApp(options);
+
+			callLib.open({
+			  param: {},
+			  path: '',
+			});
+		}
+	</script>
+</body>
+</html>
